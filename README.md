@@ -50,3 +50,23 @@ $geth = new EthereumRPC('127.0.0.1', 8545);
 $erc20 = new \ERC20\ERC20($geth);
 $erc20->abiPath('/path/to/abi.json');
 `````
+
+## Integration
+
+[Laravel 5 拓展包: bert86014/laravel-erc20](https://github.com/bert86014/laravel-erc20)
+
+## Sponsor
+
+Thank you for Sponsor Us!!!
+
+BTC/USDT-OMNI: 34BoQPt38uxCDA6W9Dw9i7LgGar6xHoDFG
+
+![image](https://github.com/bert86014/doc/raw/master/img/btc.png)
+
+ETH/USDT-ERC20: 0xd9b020B647245E080890Af29657e30B2e7F45f59
+
+![image](https://github.com/bert86014/doc/raw/master/img/eth.png)
+
+## License
+
+This content is released under the [MIT](http://opensource.org/licenses/MIT) License.
